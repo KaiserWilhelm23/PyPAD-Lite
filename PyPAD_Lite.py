@@ -3,8 +3,6 @@ from tkinter import filedialog
 from tkinter import font
 from tkinter import messagebox
 from tkinter import colorchooser
-from fpdf import FPDF
-from PIL import Image
 
 
 
