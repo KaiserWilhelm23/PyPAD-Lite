@@ -176,7 +176,7 @@ PyPAD Name is Copyright PyPAD is OpenSource
 PyPAD Creator: Will Payne AKA NEO
 -------------------------------------------
 System Requirements:
-20 MB of storage
+40 MB of storage
 20 MB RAM''').pack()
     ok = Button(pop, text='Thanks',command=pop.destroy).pack()
 
