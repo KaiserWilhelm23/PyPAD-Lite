@@ -1,1 +1,1 @@
-# PyPAD-Installer
+# PyPAD-Lite
